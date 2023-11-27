@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"d7f20a98fd1f10fd","x":280,"y":-300,"width":250,"height":60,"type":"text","text":"BUILDER\n"},
+		{"id":"5024a0395aac6ad8","x":30,"y":-160,"width":250,"height":60,"type":"text","text":"Fabricant de véhicule  A"},
+		{"id":"13a59e77fd30e536","type":"text","text":"Fabricant de  véhicule B","x":530,"y":-160,"width":250,"height":60},
+		{"id":"27e45383d7420737","x":-32,"y":0,"width":152,"height":60,"type":"text","text":"Produit A"},
+		{"id":"5277555e71ff4855","x":205,"y":0,"width":150,"height":60,"type":"text","text":"Produit B"},
+		{"id":"8fe628e43944a7ff","x":480,"y":0,"width":140,"height":60,"type":"text","text":"Produit A"},
+		{"id":"211d4cc5b163ba7d","x":680,"y":0,"width":140,"height":60,"type":"text","text":"Produit B"},
+		{"id":"d29783e801023286","x":440,"y":-500,"width":250,"height":60,"type":"text","text":"Director\n"},
+		{"id":"6d7afc906e1910ec","x":0,"y":-500,"width":250,"height":60,"type":"text","text":"Client"}
+	],
+	"edges":[
+		{"id":"1153c463a18f591b","fromNode":"5024a0395aac6ad8","fromSide":"top","toNode":"d7f20a98fd1f10fd","toSide":"left"},
+		{"id":"47524c20b4934592","fromNode":"13a59e77fd30e536","fromSide":"top","toNode":"d7f20a98fd1f10fd","toSide":"right"},
+		{"id":"430a0152b9fd3dc5","fromNode":"27e45383d7420737","fromSide":"top","toNode":"5024a0395aac6ad8","toSide":"bottom"},
+		{"id":"1acc92c55d4741b1","fromNode":"5277555e71ff4855","fromSide":"top","toNode":"5024a0395aac6ad8","toSide":"bottom"},
+		{"id":"b53405c85b2da0db","fromNode":"8fe628e43944a7ff","fromSide":"top","toNode":"13a59e77fd30e536","toSide":"bottom"},
+		{"id":"9d20e80dfff9642c","fromNode":"211d4cc5b163ba7d","fromSide":"top","toNode":"13a59e77fd30e536","toSide":"bottom"},
+		{"id":"ffa6cd75b274a631","fromNode":"d29783e801023286","fromSide":"bottom","toNode":"d7f20a98fd1f10fd","toSide":"top"},
+		{"id":"4bc13e2f6ee03b5c","fromNode":"6d7afc906e1910ec","fromSide":"right","toNode":"d29783e801023286","toSide":"left"}
+	]
+}
