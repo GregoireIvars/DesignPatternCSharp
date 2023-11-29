@@ -5,7 +5,7 @@ namespace LivreProjet
 {
     public abstract class Category
     {
-        public abstract string Name { get; }
+        public abstract string Name { get; set; }
         protected List<Book> Books { get; }
 
         protected Category()
@@ -34,7 +34,9 @@ namespace LivreProjet
 
     public class BookCategory : Category
     {
-        public override string Name { get; } = "Book Category"; // Nom de la catégorie
+        public override string Name { get; set; } // Ajoute un accesseur en écriture
+
+        private List<Book> books = new List<Book>();
 
         // ... Autres fonctionnalités spécifiques à BookCategory
 

@@ -6,11 +6,14 @@ namespace LivreProjet
     {
         private List<Category> categories = new List<Category>();
 
+        public List<Category> Categories => categories;
 
         public void AddCategory(Category category)
         {
             categories.Add(category);
         }
+
+
 
 
         public List<Book> GetAllBooksSortedByTitle()

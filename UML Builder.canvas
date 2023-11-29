@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"d7f20a98fd1f10fd","x":280,"y":-300,"width":250,"height":60,"type":"text","text":"BUILDER\n"},
-		{"id":"5024a0395aac6ad8","x":30,"y":-160,"width":250,"height":60,"type":"text","text":"Fabricant de véhicule  A"},
+		{"id":"d7f20a98fd1f10fd","type":"text","text":"BUILDER\n","x":280,"y":-300,"width":250,"height":60},
+		{"id":"5024a0395aac6ad8","type":"text","text":"Fabricant de véhicule  A","x":30,"y":-160,"width":250,"height":60},
 		{"id":"13a59e77fd30e536","type":"text","text":"Fabricant de  véhicule B","x":530,"y":-160,"width":250,"height":60},
-		{"id":"27e45383d7420737","x":-32,"y":0,"width":152,"height":60,"type":"text","text":"Produit A"},
-		{"id":"5277555e71ff4855","x":205,"y":0,"width":150,"height":60,"type":"text","text":"Produit B"},
-		{"id":"8fe628e43944a7ff","x":480,"y":0,"width":140,"height":60,"type":"text","text":"Produit A"},
-		{"id":"211d4cc5b163ba7d","x":680,"y":0,"width":140,"height":60,"type":"text","text":"Produit B"},
-		{"id":"d29783e801023286","x":440,"y":-500,"width":250,"height":60,"type":"text","text":"Director\n"},
-		{"id":"6d7afc906e1910ec","x":0,"y":-500,"width":250,"height":60,"type":"text","text":"Client"}
+		{"id":"27e45383d7420737","type":"text","text":"Produit A","x":-32,"y":0,"width":152,"height":60},
+		{"id":"5277555e71ff4855","type":"text","text":"Produit B","x":205,"y":0,"width":150,"height":60},
+		{"id":"8fe628e43944a7ff","type":"text","text":"Produit A","x":480,"y":0,"width":140,"height":60},
+		{"id":"211d4cc5b163ba7d","type":"text","text":"Produit B","x":680,"y":0,"width":140,"height":60},
+		{"id":"d29783e801023286","type":"text","text":"Director\n","x":440,"y":-500,"width":250,"height":60},
+		{"id":"6d7afc906e1910ec","type":"text","text":"Client","x":0,"y":-500,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1153c463a18f591b","fromNode":"5024a0395aac6ad8","fromSide":"top","toNode":"d7f20a98fd1f10fd","toSide":"left"},

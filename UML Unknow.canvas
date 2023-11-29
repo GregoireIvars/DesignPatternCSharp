@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"d445a5bee178f07a","type":"text","text":"Client \n","x":221,"y":-635,"width":250,"height":60},
+		{"id":"1ea9be7f4aa93a1f","type":"text","text":"Utilisateur \n","x":221,"y":-795,"width":250,"height":60},
+		{"id":"c772c06a4258afe1","type":"text","text":"Commande Comptant\n","x":-29,"y":-225,"width":250,"height":60},
+		{"id":"3dee58cbbfb0ecca","type":"text","text":"Commande Crédit","x":471,"y":-220,"width":250,"height":50},
+		{"id":"28b3806f0ee7dbe0","type":"text","text":"Client Comptant \n","x":-154,"y":-575,"width":250,"height":60},
+		{"id":"ad7e5c2467414908","type":"text","text":"Commande\n","x":221,"y":-360,"width":250,"height":80},
+		{"id":"81baca49eabc1bbf","type":"text","text":"Client Crédit \n","x":596,"y":-575,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9ab0a5a1578a8ec1","fromNode":"1ea9be7f4aa93a1f","fromSide":"bottom","toNode":"d445a5bee178f07a","toSide":"top"},
+		{"id":"677a289fca3285c4","fromNode":"3dee58cbbfb0ecca","fromSide":"top","toNode":"ad7e5c2467414908","toSide":"bottom"},
+		{"id":"7e5b45cda8babd4a","fromNode":"c772c06a4258afe1","fromSide":"top","toNode":"ad7e5c2467414908","toSide":"bottom"},
+		{"id":"0a4c10763ea90b27","fromNode":"81baca49eabc1bbf","fromSide":"bottom","toNode":"d445a5bee178f07a","toSide":"bottom"},
+		{"id":"00bb98bab673c013","fromNode":"28b3806f0ee7dbe0","fromSide":"bottom","toNode":"d445a5bee178f07a","toSide":"bottom"},
+		{"id":"687e76ae41764ee4","fromNode":"28b3806f0ee7dbe0","fromSide":"bottom","toNode":"ad7e5c2467414908","toSide":"left","color":"1"},
+		{"id":"e880eeb7b7f0fe2f","fromNode":"81baca49eabc1bbf","fromSide":"bottom","toNode":"ad7e5c2467414908","toSide":"right","color":"1"}
+	]
+}
