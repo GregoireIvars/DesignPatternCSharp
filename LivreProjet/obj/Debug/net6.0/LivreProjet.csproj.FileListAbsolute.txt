@@ -1,0 +1,15 @@
+C:\Users\gregoire.ivars\LivreProjet\bin\Debug\net6.0\LivreProjet.exe
+C:\Users\gregoire.ivars\LivreProjet\bin\Debug\net6.0\LivreProjet.deps.json
+C:\Users\gregoire.ivars\LivreProjet\bin\Debug\net6.0\LivreProjet.runtimeconfig.json
+C:\Users\gregoire.ivars\LivreProjet\bin\Debug\net6.0\LivreProjet.dll
+C:\Users\gregoire.ivars\LivreProjet\bin\Debug\net6.0\LivreProjet.pdb
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.AssemblyInfoInputs.cache
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.AssemblyInfo.cs
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.csproj.CoreCompileInputs.cache
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.sourcelink.json
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.dll
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\refint\LivreProjet.dll
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.pdb
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\LivreProjet.genruntimeconfig.cache
+C:\Users\gregoire.ivars\LivreProjet\obj\Debug\net6.0\ref\LivreProjet.dll
